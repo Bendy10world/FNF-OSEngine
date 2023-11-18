@@ -22,5 +22,6 @@ gf-tankmen
 tankman
 pico-speaker
 bf-holding-gf
+softBF speaker
 pico-player
 tankman-player
