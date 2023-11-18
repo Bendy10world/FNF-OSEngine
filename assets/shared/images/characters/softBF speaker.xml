@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="softBF speaker.png">
+<SubTexture name="softBF speaker left0000" x="664" y="0" width="664" height="607" frameX="-19" frameY="-24" frameWidth="703" frameHeight="643" />
+<SubTexture name="softBF speaker left0001" x="1992" y="1208" width="664" height="601" frameX="-19" frameY="-30" frameWidth="703" frameHeight="643" />
+<SubTexture name="softBF speaker left0002" x="0" y="1822" width="664" height="601" frameX="-19" frameY="-30" frameWidth="703" frameHeight="643" />
+<SubTexture name="softBF speaker left0003" x="1992" y="606" width="664" height="602" frameX="-19" frameY="-29" frameWidth="703" frameHeight="643" />
+<SubTexture name="softBF speaker left0004" x="0" y="608" width="664" height="607" frameX="-19" frameY="-24" frameWidth="703" frameHeight="643" />
+<SubTexture name="softBF speaker left0005" x="664" y="608" width="664" height="607" frameX="-19" frameY="-24" frameWidth="703" frameHeight="643" />
+<SubTexture name="softBF speaker left0006" x="664" y="608" width="664" height="607" frameX="-19" frameY="-24" frameWidth="703" frameHeight="643" />
+<SubTexture name="softBF speaker left0007" x="1328" y="0" width="664" height="607" frameX="-19" frameY="-24" frameWidth="703" frameHeight="643" />
+<SubTexture name="softBF speaker right0000" x="664" y="1215" width="664" height="606" frameX="-19" frameY="-25" frameWidth="703" frameHeight="643" />
+<SubTexture name="softBF speaker right0001" x="1328" y="1215" width="664" height="606" frameX="-19" frameY="-25" frameWidth="703" frameHeight="643" />
+<SubTexture name="softBF speaker right0002" x="1992" y="0" width="664" height="606" frameX="-19" frameY="-25" frameWidth="703" frameHeight="643" />
+<SubTexture name="softBF speaker right0003" x="0" y="0" width="664" height="608" frameX="-19" frameY="-23" frameWidth="703" frameHeight="643" />
+<SubTexture name="softBF speaker right0004" x="1328" y="607" width="664" height="607" frameX="-19" frameY="-24" frameWidth="703" frameHeight="643" />
+<SubTexture name="softBF speaker right0005" x="0" y="1215" width="664" height="607" frameX="-19" frameY="-24" frameWidth="703" frameHeight="643" />
+<SubTexture name="softBF speaker right0006" x="0" y="1215" width="664" height="607" frameX="-19" frameY="-24" frameWidth="703" frameHeight="643" />
+<SubTexture name="softBF speaker up0000" x="664" y="0" width="664" height="607" frameX="-19" frameY="-24" frameWidth="703" frameHeight="643" />
+<SubTexture name="softBF speaker up0001" x="1992" y="1208" width="664" height="601" frameX="-19" frameY="-30" frameWidth="703" frameHeight="643" />
+<SubTexture name="softBF speaker up0002" x="0" y="1822" width="664" height="601" frameX="-19" frameY="-30" frameWidth="703" frameHeight="643" />
+<SubTexture name="softBF speaker up0003" x="1992" y="606" width="664" height="602" frameX="-19" frameY="-29" frameWidth="703" frameHeight="643" />
+<SubTexture name="softBF speaker up0004" x="0" y="608" width="664" height="607" frameX="-19" frameY="-24" frameWidth="703" frameHeight="643" />
+<SubTexture name="softBF speaker up0005" x="664" y="608" width="664" height="607" frameX="-19" frameY="-24" frameWidth="703" frameHeight="643" />
+<SubTexture name="softBF speaker up0006" x="664" y="608" width="664" height="607" frameX="-19" frameY="-24" frameWidth="703" frameHeight="643" />
+<SubTexture name="softBF speaker up0007" x="1328" y="0" width="664" height="607" frameX="-19" frameY="-24" frameWidth="703" frameHeight="643" />
+<SubTexture name="softBF speaker up0008" x="664" y="1215" width="664" height="606" frameX="-19" frameY="-25" frameWidth="703" frameHeight="643" />
+<SubTexture name="softBF speaker up0009" x="1328" y="1215" width="664" height="606" frameX="-19" frameY="-25" frameWidth="703" frameHeight="643" />
+<SubTexture name="softBF speaker up0010" x="1992" y="0" width="664" height="606" frameX="-19" frameY="-25" frameWidth="703" frameHeight="643" />
+<SubTexture name="softBF speaker up0011" x="0" y="0" width="664" height="608" frameX="-19" frameY="-23" frameWidth="703" frameHeight="643" />
+<SubTexture name="softBF speaker up0012" x="1328" y="607" width="664" height="607" frameX="-19" frameY="-24" frameWidth="703" frameHeight="643" />
+<SubTexture name="softBF speaker up0013" x="0" y="1215" width="664" height="607" frameX="-19" frameY="-24" frameWidth="703" frameHeight="643" />
+<SubTexture name="softBF speaker up0014" x="0" y="1215" width="664" height="607" frameX="-19" frameY="-24" frameWidth="703" frameHeight="643" />
+</TextureAtlas>
